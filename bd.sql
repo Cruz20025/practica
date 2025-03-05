@@ -8,4 +8,6 @@ CREATE TABLE Alumno (
   telefono VARCHAR(100),
   correo VARCHAR(100) 
   );
-INSERT INTO (id,nombres,apellidos,edad,telefono,correo) VALUES (1,'Ruben Gonzalo','Cruz Acosta','24 años','996701532','acostakaku420@gmail.com');
+INSERT INTO Alumno (id,nombres,apellidos,edad,telefono,correo) VALUES (1,'Ruben Gonzalo','Cruz Acosta','24 años','996701532','acostakaku420@gmail.com');
+
+
